@@ -106,7 +106,7 @@ interface IRepo {
     files: {
       [filename]: {
         // eslint-disable-next-line quotes
-        filename: (morning + daytime) > (evening + night) ? "I'm a morning person ☀️" : "I'm a night person🌙",
+        filename: (morning + daytime) > (evening + night) ? "I'm a morning person ☀️" : "I'm a night peson 🌙",
         content: lines.join('\n'),
       },
     },
